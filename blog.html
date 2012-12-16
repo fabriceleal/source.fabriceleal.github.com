@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<p>Coming soon ...</p>
+
+<div>
+
+
+  <div>Start</div>
+
+  {% for post in site.posts limit: listing_limit %}
+  <div>A post {{ post.title }}</div>
+  {% endfor %}
+
+  <div>End</div>
+
+
+</div>
