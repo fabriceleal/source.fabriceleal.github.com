@@ -20,6 +20,7 @@ contacts:
      url: "http://www.coderbits.com"
 
    - title: "Twitter"
+     fragment: "twitter.html"
      img: "images/twitter.png"
      url: "http://www.twitter.com"
 
