@@ -17,7 +17,7 @@ contacts:
 
    - title: "Coderbits"
      img: "images/coderbits.png"
-     url: "http://www.coderbits.com"
+     url: "https://coderbits.com/coder/fableal"
 
    - title: "Twitter"
      fragment: "twitter.html"
@@ -26,5 +26,5 @@ contacts:
 
    - title: "Github"
      img: "images/github.png"
-     url: "http://www.github.com"
+     url: "http://www.github.com/fabriceleal"
 
