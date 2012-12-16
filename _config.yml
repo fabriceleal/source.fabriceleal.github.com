@@ -1,6 +1,6 @@
 safe: false
 source: .
-destination: ../fabriceleal.github.com
+destination: ./_site
 
 lsi: false
 pygments: true
