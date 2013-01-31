@@ -1,0 +1,11 @@
+
+.PHONY: auto deploy
+
+gen:
+	/var/lib/gems/1.8/bin/jekyll
+
+auto: 
+	/var/lib/gems/1.8/bin/jekyll --server --auto
+
+deploy:
+	cp -r _site/* ../fabriceleal.github.com
