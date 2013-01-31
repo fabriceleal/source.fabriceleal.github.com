@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Compile C++ code with C++11 threads
 
 Consider the following code, which uses the C++11 (used to be known as C++0x) thread library:
