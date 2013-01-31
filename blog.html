@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<p>This is still in construction...</p>
+<p>This is still under construction...</p>
 
 <div>
-
+	<h3>All posts</h3>
   {% for post in site.posts limit: listing_limit %}
 	<a href="{{ post.url }}"><div>{{ post.title }}</div></a>
   {% endfor %}
