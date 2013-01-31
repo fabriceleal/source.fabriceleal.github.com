@@ -10,17 +10,18 @@ paginate: 5
 motto: "cat /dev/random > /dev/null"
 
 contacts:
+   - title: "Email"
+     fragment: "email.html"
+
    - title: "Linkedin"
      fragment: "linkedin.html"
 
    - title: "Coderbits"
-     img: "images/coderbits.png"
-     url: "https://coderbits.com/fableal"
+     fragment: "coderbits.html"
 
    - title: "Twitter"
      fragment: "twitter.html"
 
    - title: "Github"
-     img: "images/github.png"
-     url: "http://www.github.com/fabriceleal"
+     fragment: "github.html"
 
