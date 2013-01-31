@@ -6,7 +6,7 @@ layout: default
 
 This one might change :)
 
-Badges from [coderwall.com][1]; some (all?) of the [protips][2] may be on the [blog][3]
+Badges from [coderwall.com][1]; some (all?) of the [protips][2] are on the [blog][3]
 
 <div>
 				<section class="coderwall" data-coderwall-username="fabriceleal" data-coderwall-orientation="horizontal">
