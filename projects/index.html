@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h1>Index of projects</h1>
+
+
+{% for project in site.projects limit: 2 %}
+<div>a project!</div>
+<div>{{ project.name }}</div>
+{% endfor %}

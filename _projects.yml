@@ -1,0 +1,13 @@
+
+projects:
+   - name: "Pang"
+     description: "A subset of scheme"
+     url: "https://github.com/fabriceleal/Pang"
+     tags: ["language", "implementation", "scheme"]
+     langs: ["F#"]
+
+   - name: "Multitasks"
+     description: "The one true asynchronous programming language"
+     url: "https://github.com/fabriceleal/Multitasks"
+     tags: ["language", "implementation", "promises"]
+     langs: ["C#"]

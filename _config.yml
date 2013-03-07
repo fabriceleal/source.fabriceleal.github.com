@@ -25,3 +25,5 @@ contacts:
    - title: "Github"
      fragment: "github.html"
 
+additional_configs:
+   - _projects.yml
